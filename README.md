@@ -66,7 +66,7 @@ Secrets are managed via environment variables and are not committed to the repos
 
 ---
 
-## Running locally (optional)
+## Running locally 
 
 ```bash
 pip install -r requirements.txt
