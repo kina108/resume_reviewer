@@ -3,7 +3,7 @@
 A simple web app that compares a resume against a job description and highlights alignment gaps.  
 Built to help students and early-career applicants understand **what they’re missing and how to improve**, not to automate hiring decisions.
 
-**Live demo:** _Streamlit Community Cloud link_
+**Live demo:** https://resume-review1.streamlit.app/
 
 ---
 
